@@ -33,8 +33,9 @@ export default function Skills() {
 
   { name: 'Git', category: 'tools' },
   { name: 'GitHub', category: 'tools' },
-  { name: 'VS Code', category: 'tools' },
   { name: 'Postman', category: 'tools' },
+  { name: 'VS Code', category: 'tools' },
+  
   { name: 'Eclipse', category: 'tools' },
 
 ];
