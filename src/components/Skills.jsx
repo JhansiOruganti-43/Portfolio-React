@@ -21,8 +21,9 @@ export default function Skills() {
 
   { name: 'HTML5', category: 'frontend' },
   { name: 'CSS3', category: 'frontend' },
-  { name: 'JavaScript', category: 'frontend' },
   { name: 'React.js', category: 'frontend' },
+  { name: 'JavaScript', category: 'frontend' },
+  
   { name: 'Bootstrap', category: 'frontend' },
 
   { name: 'Flask', category: 'backend' },
