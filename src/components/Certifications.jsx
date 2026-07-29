@@ -4,19 +4,20 @@ import { motion } from 'framer-motion';
 export default function Certifications() {
   const certificationsData = [
     {
-      title: "Software Project Management",
-      issuer: "NPTEL",
-      date: "Academic Coursework",
-      color: "border-l-4 border-purple-500",
-      link: "",
-    },
-    {
       title: "IT Specialist – HTML & CSS",
       issuer: "Certiport",
       date: "Industry Standard Certification",
       color: "border-l-4 border-teal-500",
       link: "",
     },
+    {
+      title: "Software Project Management",
+      issuer: "NPTEL",
+      date: "Academic Coursework",
+      color: "border-l-4 border-purple-500",
+      link: "",
+    },
+    
   ];
 
   return (

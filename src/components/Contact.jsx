@@ -204,7 +204,7 @@ export default function Contact() {
                     Message Sent!
                   </h3>
                   <p className="text-slate-600 dark:text-slate-400 text-sm sm:text-base max-w-sm">
-                    Thank you, Jhansi has received your message and will reach out to you shortly.
+                    Thank you, Jhansi Oruganti has received your message and will reach out to you shortly.
                   </p>
                 </motion.div>
               )}
