@@ -42,9 +42,6 @@ export default function About() {
             <h3 className="text-2xl font-display font-bold text-slate-900 dark:text-white leading-tight">
               Aspiring Software Developer | Full Stack Developer | Problem Solver
             </h3>
-            {/* <p className="text-slate-600 dark:text-slate-400 leading-relaxed">
-              I am pursuing my B.Tech in Information Technology at Shri Vishnu Engineering College for Women. My passion lies in software development, web engineering, and exploring robust database technologies to create impactful solutions.
-            </p> */}
             <p className="text-slate-600 dark:text-slate-400 leading-relaxed">
               Passionate Information Technology student with interests in Full Stack Development, Software Engineering, and Database Systems. Skilled in Java, Python, React, Flask, and SQL, with experience building real-world web applications and solving technical challenges.</p>
             <div className="p-4 bg-blue-50/50 border-l-4 border-blue-600 rounded-r-xl dark:bg-sky-950/20 dark:border-sky-500">

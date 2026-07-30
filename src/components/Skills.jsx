@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { Code2, Layout, Server, Database, Wrench } from 'lucide-react';
 import { motion } from 'framer-motion';
-
 export default function Skills() {
   const [activeCategory, setActiveCategory] = useState('all');
 
@@ -21,18 +20,17 @@ export default function Skills() {
 
   { name: 'HTML5', category: 'frontend' },
   { name: 'CSS3', category: 'frontend' },
-  { name: 'JavaScript', category: 'frontend' },
   { name: 'React.js', category: 'frontend' },
-
-  
-  
+  { name: 'JavaScript', category: 'frontend' },
   { name: 'Bootstrap', category: 'frontend' },
 
   { name: 'Flask', category: 'backend' },
   { name: 'REST APIs', category: 'backend' },
 
+
   { name: 'MySQL', category: 'databases' },
   { name: 'MongoDB', category: 'databases' },
+
 
   { name: 'Git', category: 'tools' },
   { name: 'GitHub', category: 'tools' },
