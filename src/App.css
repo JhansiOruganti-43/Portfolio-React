@@ -16,10 +16,8 @@
     outline-offset: 2px;
   }
 }
-
 .hero {
   position: relative;
-
   .base,
   .framework,
   .vite {
@@ -130,6 +128,7 @@
     &:hover {
       box-shadow: var(--shadow);
     }
+
     .button-icon {
       height: 18px;
       width: 18px;
@@ -177,6 +176,7 @@
     left: 0;
     border-left-color: var(--border);
   }
+  
   &::after {
     right: 0;
     border-right-color: var(--border);
