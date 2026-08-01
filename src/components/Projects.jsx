@@ -12,6 +12,7 @@ export default function Projects() {
   github: "https://github.com/JhansiOruganti-43/ShareMeal",
   demo: ""
 },
+
     {
       title: "Apartment Management System",
       description: "Built a web-based management solution designed to digitize resident operations. Manages unit listings, tracking monthly utility and maintenance expenses, generating bills, and sending automated payment updates.",
@@ -38,6 +39,7 @@ export default function Projects() {
   github: "https://github.com/JhansiOruganti-43/Price-Comparison-System"
   // demo: "https://your-demo-link.com"
      }
+     
     // {
     //   title: "OCR-Based Text-to-Speech System",
     //   description: "Designed a lightweight assistive software scanner for visually impaired users. Recognizes printed text from custom imagery and translates text segments into synthesised vocal audio.",
