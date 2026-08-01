@@ -39,7 +39,7 @@ export default function Projects() {
   github: "https://github.com/JhansiOruganti-43/Price-Comparison-System"
   // demo: "https://your-demo-link.com"
      }
-     
+
     // {
     //   title: "OCR-Based Text-to-Speech System",
     //   description: "Designed a lightweight assistive software scanner for visually impaired users. Recognizes printed text from custom imagery and translates text segments into synthesised vocal audio.",
@@ -113,6 +113,7 @@ export default function Projects() {
                       </span>
                     ))}
                   </div>
+
 
                   {/* Actions buttons */}
                   <div className="flex items-center pt-4 border-t border-slate-100 dark:border-slate-800/60">
