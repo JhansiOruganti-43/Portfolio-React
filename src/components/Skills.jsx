@@ -58,7 +58,6 @@ export default function Skills() {
     show: { opacity: 1, y: 0, transition: { type: 'spring', stiffness: 120 } }
   };
 
-  
   return (
     <section id="skills" className="py-24 bg-white dark:bg-slate-950 relative">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
