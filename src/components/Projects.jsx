@@ -113,8 +113,6 @@ export default function Projects() {
                       </span>
                     ))}
                   </div>
-
-
                   {/* Actions buttons */}
                   <div className="flex items-center pt-4 border-t border-slate-100 dark:border-slate-800/60">
                     <a
